@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ![himg](https://github.com/aaditya2200/aaditya2200/blob/main/banner.png)
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya2200&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya2200)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaditya2200&repo=Golang-microservices)
