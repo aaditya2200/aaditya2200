@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![himg](https://github.com/aaditya2200/aaditya2200/blob/main/banner.png)
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya2200&theme=cobalt)
-
+## I specialize in Go and Python.
 ![img](https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg)
