@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![himg](https://github.com/aaditya2200/aaditya2200/blob/main/banner.png)
 # I'm a student, developer, and  I hate coffee.
-## C, C++, Redis, SQLAlchemy, Relational Databases are some of the things I work with.
+## C,  C++,  Redis,  SQLAlchemy,  Relational Databases are some of the things I work with.
 ## I specialize in Go and Python.
 ### Jetbrains IDEs and Postgres are my go tos.
 ### Currently exploring AWS and preparing for AWS Certifed Solutions Architect Associate Exam (that's quite a mouthful!)
