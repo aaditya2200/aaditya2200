@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![himg](https://github.com/aaditya2200/aaditya2200/blob/main/banner.png)
-![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya2200)](https://github.com/anuraghazra/github-readme-stats)
+![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya2200)
