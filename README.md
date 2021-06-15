@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![himg](https://github.com/aaditya2200/aaditya2200/blob/main/banner.png)
-![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya2200&theme=cobalt)
+# Student, Developer, and hate coffee
+## C, C++, Redis, SQLAlchemy, Relational Databases are some of the things I work with.
 ## I specialize in Go and Python.
+![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya2200&theme=cobalt)
 ![img](https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg)
+[!img2](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+[!img3](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg)
+[!img4](https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg)
