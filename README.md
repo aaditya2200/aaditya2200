@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![himg](https://github.com/aaditya2200/aaditya2200/blob/main/banner.png)
-# Student, Developer, and hate coffee
+# I'm a student, developer, and  I hate coffee.
 ## C, C++, Redis, SQLAlchemy, Relational Databases are some of the things I work with.
 ## I specialize in Go and Python.
+### Jetbrains IDEs and Postgres are my go tos.
+### Currently exploring AWS and preparing for AWS Certifed Solutions Architect Associate Exam (that's quite a mouthful!)
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya2200&theme=cobalt)
 ![img](https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg)!
 ![img2](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
