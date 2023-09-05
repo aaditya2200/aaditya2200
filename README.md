@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 ![himg](https://github.com/aaditya2200/aaditya2200/blob/main/banner.png)
 # I'm a student, developer, and  I hate coffee.
 ## C,  C++,  Redis,  SQLAlchemy,  Relational Databases are some of the things I work with.
-## I specialize in Go and Python.
-### Jetbrains IDEs and Postgres are my go tos.
-### Currently exploring AWS and preparing for AWS Certifed Solutions Architect Associate Exam (that's quite a mouthful!)
+## Experienced with Java and Spring Boot, distributed systems and microservices.
+## Currently I am studying the low level implementations of highly concurrent databases.
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya2200&theme=cobalt)
-![img](https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg)!
-![img2](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-![img3](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg)
-![img4](https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg)
