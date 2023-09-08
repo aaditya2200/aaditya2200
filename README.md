@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ![himg](https://github.com/aaditya2200/aaditya2200/blob/main/banner.png)
 # I'm a student, developer, and  I hate coffee.
-## C,  C++,  Redis,  SQLAlchemy,  Relational Databases are some of the things I work with.
 ## Experienced with Java and Spring Boot, distributed systems and microservices.
 ## Currently I am studying the low level implementations of highly concurrent databases.
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya2200&theme=cobalt)
