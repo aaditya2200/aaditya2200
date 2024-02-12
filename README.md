@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 # I'm a student, developer, and  I hate coffee.
 ## Experienced with Java and Spring Boot, distributed systems and microservices.
 ## Currently I am studying the low level implementations of highly concurrent databases.
+## I am also doing research on data structures for big data.
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya2200&theme=cobalt)
