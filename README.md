@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![himg](https://github.com/aaditya2200/aaditya2200/blob/main/banner.png)
-# I'm a student, developer, and  I hate coffee.
-## Experienced with Java and Spring Boot, distributed systems and microservices.
-## Currently I am studying the low level implementations of highly concurrent databases.
-## I am also doing research on data structures for big data.
+# I'm a PhD student and  I hate coffee.
+## I am currently performing research on workload adaptive data structures for high performance databases. I am also interested in probabilistic data structures.
+## I use C/C++ everyday and aim to hone my skills as a systems researcher.
+## I love reading papers, please reach out to me if you have recommendations!
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya2200&theme=cobalt)
