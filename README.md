@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![himg](https://github.com/aaditya2200/aaditya2200/blob/main/banner.png)
-# I'm a PhD student and  I hate coffee.
+# I'm a CS student and  I hate coffee.
 ## I am currently performing research on workload adaptive data structures for high performance databases. I am also interested in probabilistic data structures.
 ## I use C/C++ everyday and aim to hone my skills as a systems researcher.
 ## I love reading papers, please reach out to me if you have recommendations!
