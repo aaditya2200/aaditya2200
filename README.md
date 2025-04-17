@@ -1,22 +1,25 @@
+![Banner](https://github.com/aaditya2200/aaditya2200/blob/main/banner.png)
 
+# 👋 Hey, I'm Aaditya!
+> *Coffee-hater. Systems nerd. AI dreamer.*
 
-<!--
-**aaditya2200/aaditya2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a CS student building the **next generation of AI assistants**. Previously, I researched **workload-adaptive data structures** for high-performance databases. I’m also fascinated by **probabilistic data structures** and how they shape the future of computation.
 
-Here are some ideas to get you started:
+🧠 I spend most of my time with **C/C++**, diving deep into systems programming and pushing the boundaries of performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![himg](https://github.com/aaditya2200/aaditya2200/blob/main/banner.png)
-# I'm a CS student and  I hate coffee.
-## I am currently performing research on workload adaptive data structures for high performance databases. I am also interested in probabilistic data structures.
-## I use C/C++ everyday and aim to hone my skills as a systems researcher.
-## I love reading papers, please reach out to me if you have recommendations!
-![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya2200&theme=cobalt)
+📚 I love reading research papers — seriously, send me your favorite ones and let's talk!
+
+---
+
+### 🛠️ Currently Using
+- Languages: `C` | `C++` | `Python`
+- Tools: `gdb` | `valgrind` | `perf` | `tmux` | `zsh`
+- Interests: `compilers`, `distributed systems`, `AI agents`, `data structures`
+
+---
+
+![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya2200&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+---
+
+> 📬 Feel free to connect, collab, or just geek out over cool CS ideas!
