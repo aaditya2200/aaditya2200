@@ -14,7 +14,7 @@
 ### 🛠️ Currently Using
 - Languages: `C` | `C++` | `Python`
 - Tools: `gdb` | `valgrind` | `perf` | `tmux` | `zsh`
-- Interests: `compilers`, `distributed systems`, `AI agents`, `data structures`
+- Interests:  `AI agents`, `distributed systems`, `data structures`
 
 ---
 
