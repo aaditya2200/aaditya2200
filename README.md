@@ -5,7 +5,7 @@
 
 🚀 I'm a CS student building the **next generation of AI assistants**. Previously, I researched **workload-adaptive data structures** for high-performance databases. I’m also fascinated by **probabilistic data structures** and how they shape the future of computation.
 
-🧠 I spend most of my time with **C/C++**, diving deep into systems programming and pushing the boundaries of performance.
+🧠 These days, I spend most of my time with Python, though I started out in C/C++, diving deep into systems programming and pushing the limits of performance.
 
 📚 I love reading research papers — seriously, send me your favorite ones and let's talk!
 
